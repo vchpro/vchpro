@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @vchpro<!-- - 👀 I’m interested in IT -->
-- 🌱 I’m currently learning React.JS
+- 🌱 I’m currently learning C++
 - 📫 How to reach me mail.vchpro@yandex.ru
