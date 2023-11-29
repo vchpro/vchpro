@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning frontend development (Vue.js) 
 - 🔭 I'm currently freelancing
 
-- 📫 My email: antrec512@gmail.com
+- 📫 My email: mail.vchpro@yandex.ru
 
